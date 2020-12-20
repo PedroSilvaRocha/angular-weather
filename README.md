@@ -6,7 +6,7 @@ Forma avançada de gerenciar estados com NGRX.
 
 Aplicação serve para pesquisar a previsão do tempo e sensação térmica de todas as cidades do mundo, dados são consumidos da api disponibilizada pelo do site Open Weather
 
-Na aplicação é possível pesquisar, pesquisar por autocomplete, criar lista de favoritos, verificar a previsão até de uma semana da cidade selecionada.
+Na aplicação é possível pesquisar por autocomplete, criar lista de favoritos, verificar a previsão até de uma semana da cidade selecionada.
 
 ## Tecnologias utilizadas:
 
